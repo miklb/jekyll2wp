@@ -1,10 +1,10 @@
 ---
 ID: 1124
-post_title: >
+post_post_title: >
   Solving the Mysterious Relaunching
   iTunes
 author: miklb
-post_date: 2016-11-21 05:41:50
+post_post_date: 2016-11-21 05:41:50
 post_excerpt: ""
 layout: post
 permalink: http://michaelbishop.me/?p=1124

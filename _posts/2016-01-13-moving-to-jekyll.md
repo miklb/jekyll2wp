@@ -1,16 +1,12 @@
 ---
-ID: 1106
-post_title: Making the Move to Jekyll
-author: miklb
-post_date: 2016-11-21 05:41:49
-post_excerpt: ""
 layout: post
-permalink: >
-  http://michaelbishop.me/2016/11/21/making-the-move-to-jekyll/
+post_title: "Making the Move to Jekyll"
+tags: blogging Jekyll Habari
 published: true
-tags:
-  - blogging Jekyll Habari
+permalink: making-the-move-to-jekyll
+post_date: 2016-01-13
 ---
+
 I've officially made the change from Habari to Jekyll. I will certainly have more to share on the move, both a post-mortem on Habari, as well as the process I'm using currently for using Jekyll.
 
 My basic workflow currently is serving the page from GitHub pages, however I'm using Travis CI to build the site and  publish to master branch[^1] , there by bypassing the restrictions of gh-pages (specifically, their need for using --safe mode and not up-to-date version of Jekyll). Currently my use case would probably work within their parameters, however I had already started using 3.x and at the time of writing GitHub is using 2.x.
