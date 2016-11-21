@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Breaking Out of the Silo"
+post_title: "Breaking Out of the Silo"
 tags:
  - twitter
  - indieweb
  - blogging
 published: true
 permalink: breaking-out-of-the-silo
-date: 2016-01-30
+post_date: 2016-01-30
 summary: "Breaking the habit of using Twitter without posting first on my site is going to be a hard one, but it's a goal."
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Dogfooding"
+post_title: "Dogfooding"
 tags:
  - development
  - open source
 published: true
 permalink: dogfooding
-date: 2016-4-17 17:27
+post_date: 2016-4-17 17:27
 summary: Dogfooding my IndieWeb Jekyll theme.
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Housekeeping May 2016"
+post_title: "Housekeeping May 2016"
 tags:
   - Jekyll
   - IndieWeb
 published: true
 permalink: housekeeping-may-2016
-date: 2016-5-12 2:15
+post_date: 2016-5-12 2:15
 summary: A not so brief summary of the updates I've made to my blog over the last month.
 ---
 Figure for my own reference I should document the updates I've made to the site the last month.

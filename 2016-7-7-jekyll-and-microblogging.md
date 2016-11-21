@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll & Microblogging"
+post_title: "Jekyll & Microblogging"
 tags:
  - Jekyll
  - microblogging
@@ -8,7 +8,7 @@ mf-syndicate-to:
   - 'https://brid.gy/publish/twitter'
 published: true
 permalink: jekyll-and-microblogging
-date: 2016-7-7 1:17
+post_date: 2016-7-7 1:17
 summary: Jekyll, microblogging and IndieWeb
 ---
 I've been following Manton Reece's blog and his development of a microblogging service. The first thing that caught my attention was when he discussed [supporting webmentions](http://manton.org/tag/civilcomments).

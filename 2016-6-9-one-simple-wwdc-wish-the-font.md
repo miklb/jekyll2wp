@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "One Simple WWDC Wish: The Font"
+post_title: "One Simple WWDC Wish: The Font"
 tags:
  - Apple
  - typography
 published: true
 permalink: one-simple-wwdc-wish-the-font
-date: 2016-6-9 3:32
+post_date: 2016-6-9 3:32
 summary: My one simple ask from Apple for WWDC next week. A font.
 ---
 My feed reader and Twitter timeline are full of posts with wish lists for next week's Apple World Wide Developer conference. Siri this, iOS 10 that. And I'm sure some of the ideas are great and I'll be happy when they are at my disposal.

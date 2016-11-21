@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Forking Paths"
+post_title: "Forking Paths"
 tags:
  - IndieWeb
 mf-syndicate-to:
   - 'https://brid.gy/publish/twitter'
 published: true
 permalink: forking-paths
-date: 2016-6-30 1:0
+post_date: 2016-6-30 1:0
 summary: Jeremy Keith's superb walk down the history of the web and how to get from a walled garden to a forking path.
 ---
 In no small part I started down the path of rebooting my personal site employing the tenets of IndieWeb principles because I read about it on [Jeremy Keith's weblog adactio](https://adactio.com/). It took some time to come to fruition, with lots of starts and sputters, and I still have itches to scratch.

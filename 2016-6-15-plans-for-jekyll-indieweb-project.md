@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Plans for Jekyll IndieWeb Project"
+post_title: "Plans for Jekyll IndieWeb Project"
 tags:
  - Jekyll
  - IndieWeb
 published: true
 permalink: plans-for-jekyll-indieweb-project
-date: 2016-6-15 15:17
+post_date: 2016-6-15 15:17
 summary: Catching up on my plans for the Jekyll IndieWeb theme and project I started.
 ---
 I started a project soon after I began embracing the IndieWeb for the Jekyll platform, [Jekyll IndieWeb](https://github.com/miklb/jekyll-indieweb) (A less than inspiring project name I'm afraid to say.) My initial goals were to have a framework for myself that was fully microformats 2 compliant to build my own site off of and to share a starting point for anyone new to having their own website and wanting to embrace IndieWeb themselves.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Organizing Jekyll Posts"
+post_title: "Organizing Jekyll Posts"
 tags:
    - jekyll
    - categories
    - organization
 published: true
 permalink: organizing-jekyll-posts
-date: 2016-4-26 22:44
+post_date: 2016-4-26 22:44
 summary: Sharing some recent discoveries on how you can organize Jekyll posts beyond a single _posts directory.
 ---
 

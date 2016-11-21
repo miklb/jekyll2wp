@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IndieWeb Summit 2016"
+post_title: "IndieWeb Summit 2016"
 tags:
   - IndieWeb
 published: true
 permalink: indieweb-summit-2016
-date: 2016-6-2 17:42
+post_date: 2016-6-2 17:42
 summary: IndieWeb Summit 2016 and what I hope to accomplish attending remotely.
 ---
 

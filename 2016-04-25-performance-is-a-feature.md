@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Performance is a Feature"
+post_title: "Performance is a Feature"
 tags:
  - Performance
  - development
 published: true
 permalink: performance-is-a-feature
-date: 2016-4-25 0:7
+post_date: 2016-4-25 0:7
 summary: Performance as a feature one small blog at a time.
 ---
 

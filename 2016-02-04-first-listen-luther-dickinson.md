@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "First Listen: Luther Dickinson"
+post_title: "First Listen: Luther Dickinson"
 tags:
  - music
 published: true
 permalink: first-listen-luther-dickinson
-date: 2016-02-04
+post_date: 2016-02-04
 summary: Check the the first listen of Luther Dickinson's new solo album Blues & Ballads at Garden & Gun http://gardenandgun.com/blog/first-listen-luther-dickinson-blues-ballads
 ---
 

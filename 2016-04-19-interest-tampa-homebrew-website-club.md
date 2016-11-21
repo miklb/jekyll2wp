@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Interest in Tampa Homebrew Website Club?"
+post_title: "Interest in Tampa Homebrew Website Club?"
 tags:
  - Tampa
  - IndieWeb
  - Tech
 published: true
 permalink: interest-in-tampa-homebrew-website-club
-date: 2016-4-19 14:0
+post_date: 2016-4-19 14:0
 summary: Quick web survey gauging interest in a Tampa homebrew website club.
 ---
 

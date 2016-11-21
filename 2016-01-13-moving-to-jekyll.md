@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Making the Move to Jekyll"
+post_title: "Making the Move to Jekyll"
 tags: blogging Jekyll Habari
 published: true
 permalink: making-the-move-to-jekyll
-date: 2016-01-13
+post_date: 2016-01-13
 ---
 
 I've officially made the change from Habari to Jekyll. I will certainly have more to share on the move, both a post-mortem on Habari, as well as the process I'm using currently for using Jekyll.

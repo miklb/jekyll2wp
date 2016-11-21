@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Headings - What Was Old is New Again"
+post_title: "Headings - What Was Old is New Again"
 tags:
  - semantics
  - HTML
 published: true
 permalink: headings-what-was-old-is-new-again
-date: 2016-4-18 13:10
+post_date: 2016-4-18 13:10
 summary: Seems the HTML WG has reversed course on how heading tags should be used.
 ---
 

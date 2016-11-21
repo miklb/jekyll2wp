@@ -1,12 +1,12 @@
 ---
 layout: "post"
-title: "Customizing Atom Editor"
+post_title: "Customizing Atom Editor"
 tags:
  - development
  - Atom
  - productivity
 permalink: customizing-atom-editor
-date: "2016-04-22 03:15"
+post_date: "2016-04-22 03:15"
 summary: In my never ending quest for a perfect text editor, some notes on how I customize Atom.io editor.
 ---
 

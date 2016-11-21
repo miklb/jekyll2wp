@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Text Expander snippet for Jekyll With Slug for Permalink"
+post_title: "Text Expander snippet for Jekyll With Slug for Permalink"
 tags:
  - Jekyll
  - TextExpander
   - javascript
 published: true
 permalink: text-expander-snippet-for-jekyll-with-slug-for-permalink
-date: 2016-2-6
+post_date: 2016-2-6
 summary: Wrote a @TextExpander snippet for @jekyllrb that generates Front Matter from Title, including a slugified permalink https://gist.github.com/miklb/53a93032fb8cc669b1fa
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Losing Steam"
+post_title: "Losing Steam"
 tags:
  - blogging
 published: true
 mf-syndicate-to:
   - 'https://brid.gy/publish/twitter'
 permalink: losing-steam
-date: 2016-6-27 19:17
+post_date: 2016-6-27 19:17
 summary: A typical lament on the ease of which to stop using one's own blog is an easy trap.
 ---
 

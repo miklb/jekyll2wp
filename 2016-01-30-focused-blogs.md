@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Focused Blogs"
+post_title: "Focused Blogs"
 tags:
  - blogging
 published: true
 permalink: focused-blogs
-date: 2016-01-30
+post_date: 2016-01-30
 ---
 
 In my ever revolving attempt to reboot my blog, one thing that has always slowed me down was my concern with being too esoteric in my topics. I want to talk about food, technology and everything in between.
