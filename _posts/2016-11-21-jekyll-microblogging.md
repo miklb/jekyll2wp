@@ -1,15 +1,19 @@
 ---
+ID: 1234
+post_title: 'Jekyll &amp; Microblogging'
+author: miklb
+post_date: 2016-11-21 05:47:50
+post_excerpt: ""
 layout: post
-post_title: "Jekyll & Microblogging"
-tags:
- - Jekyll
- - microblogging
-mf-syndicate-to:
-  - 'https://brid.gy/publish/twitter'
+permalink: >
+  http://michaelbishop.me/2016/11/21/jekyll-microblogging/
 published: true
-permalink: jekyll-and-microblogging
-post_date: 2016-7-7 1:17
-summary: Jekyll, microblogging and IndieWeb
+tags:
+  - 'a:2:{i:0;s:6:"Jekyll";i:1;s:13:"microblogging";}'
+mf-syndicate-to:
+  - 'a:1:{i:0;s:31:"https://brid.gy/publish/twitter";}'
+summary:
+  - Jekyll, microblogging and IndieWeb
 ---
 I've been following Manton Reece's blog and his development of a microblogging service. The first thing that caught my attention was when he discussed [supporting webmentions](http://manton.org/tag/civilcomments).
 

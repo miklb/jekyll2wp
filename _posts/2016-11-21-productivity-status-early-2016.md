@@ -1,14 +1,17 @@
 ---
+ID: 1206
+post_title: Productivity Status Early 2016
+author: miklb
+post_date: 2016-11-21 05:47:49
+post_excerpt: ""
 layout: post
-post_title: "Productivity Status Early 2016"
-tags:
- - productivity
- - Mac
- - TaskPaper
+permalink: >
+  http://michaelbishop.me/2016/11/21/productivity-status-early-2016/
 published: true
-permalink: productivity-status-early-2016
-post_date: 2016-4-25 19:45
-summary: Outlining my productivity hacks with TaskPaper & Siri.
+tags:
+  - 'a:3:{i:0;s:12:"productivity";i:1;s:3:"Mac";i:2;s:9:"TaskPaper";}'
+summary:
+  - 'Outlining my productivity hacks with TaskPaper & Siri.'
 ---
 I broke one of my new rules today by tweeting out more than politics snark or sports and briefly outlined the direction I'm moving with my *productivity* this year. I've been toiling the past year or so trying to shoehorn my brain into Omnifocus to no avail, so at the beginning of the year I started exploring other methods. About 2 weeks ago, my brain just started to work in regard to using [TaskPaper](https://www.taskpaper.com). If you aren't familiar with TaskPaper, it is a plain text method of tracking todos that has tools built around it to filter by tags and projects. I've owned the app for awhile, but not until 3.0 was in beta did things begin to click within the app organizing projects. I always wanted (wrongly) to keep separate files for each project. Maybe that is one thing I learned using Omnifocus was structuring projects. Now everything personal is one single text file. I do have a separate one for the free lance work I'm doing because that's a different mode. I don't want to be distracted by anything when I'm trying to mow through items for work.
 

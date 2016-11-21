@@ -1,13 +1,20 @@
 ---
+ID: 1222
+post_title: GitHub is My View Source
+author: miklb
+post_date: 2016-11-21 05:47:49
+post_excerpt: ""
 layout: post
-post_title: "GitHub is My View Source"
-tags:
- - GitHub
- - development
+permalink: >
+  http://michaelbishop.me/2016/11/21/github-is-my-view-source/
 published: true
-permalink: github-is-my-view-source
-post_date: 2016-5-28 0:3
-summary: Discovered a new browser plugin to help navigate GitHub repos, my main source of learning these days.
+tags:
+  - 'a:2:{i:0;s:6:"GitHub";i:1;s:11:"development";}'
+summary:
+  - >
+    Discovered a new browser plugin to help
+    navigate GitHub repos, my main source of
+    learning these days.
 ---
 When I first started learning web development in earnest, (beyond basic HTML), the community college I was attending was still teaching Dreamweaver as de facto method of building a site and using Photoshop and tables based layouts. Meanwhile I had launched my first blog with WordPress, fresh off the 1.5 release that brought full themes, XHTML and CSS. Reading blog posts on the subjects was basically the way I learned those skills. And viewing the page source of the authors writing those posts.
 

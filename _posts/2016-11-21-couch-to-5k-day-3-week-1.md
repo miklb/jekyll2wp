@@ -1,11 +1,19 @@
 ---
+ID: 1218
+post_title: 'Couch to 5k &#8211; Day 3 Week 1'
+author: miklb
+post_date: 2016-11-21 05:47:49
+post_excerpt: ""
 layout: post
-post_title: "Couch to 5k - Day 3 Week 1"
-tags:
+permalink: >
+  http://michaelbishop.me/2016/11/21/couch-to-5k-day-3-week-1/
 published: true
-permalink: couch-5k-d3w1
-post_date: 2016-5-17 20:53
-summary: Couch-to-5k first week in the books. More progress, more lessons learned.
+tags:
+  - ""
+summary:
+  - >
+    Couch-to-5k first week in the books.
+    More progress, more lessons learned.
 ---
 First week (well, 3 runs) in the book. Lesson learned today is take the little twinges of discomfort serious. I had minor discomfort in my right ankle but pushed through, and am now feeling that I was compensating for it. I may need to wait until Friday to start the next week, but that's to be determined. Consider me day-to-day on the injury report.
 

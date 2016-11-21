@@ -1,13 +1,17 @@
 ---
+ID: 1212
+post_title: Housekeeping May 2016
+author: miklb
+post_date: 2016-11-21 05:47:49
+post_excerpt: ""
 layout: post
-post_title: "Housekeeping May 2016"
-tags:
-  - Jekyll
-  - IndieWeb
+permalink: >
+  http://michaelbishop.me/2016/11/21/housekeeping-may-2016/
 published: true
-permalink: housekeeping-may-2016
-post_date: 2016-5-12 2:15
-summary: A not so brief summary of the updates I've made to my blog over the last month.
+tags:
+  - 'a:2:{i:0;s:6:"Jekyll";i:1;s:8:"IndieWeb";}'
+summary:
+  - "A not so brief summary of the updates I've made to my blog over the last month."
 ---
 Figure for my own reference I should document the updates I've made to the site the last month.
 

@@ -1,13 +1,19 @@
 ---
+ID: 1232
+post_title: 'One Simple WWDC Wish: The Font'
+author: miklb
+post_date: 2016-11-21 05:47:50
+post_excerpt: ""
 layout: post
-post_title: "One Simple WWDC Wish: The Font"
-tags:
- - Apple
- - typography
+permalink: >
+  http://michaelbishop.me/2016/11/21/one-simple-wwdc-wish-the-font/
 published: true
-permalink: one-simple-wwdc-wish-the-font
-post_date: 2016-6-9 3:32
-summary: My one simple ask from Apple for WWDC next week. A font.
+tags:
+  - 'a:2:{i:0;s:5:"Apple";i:1;s:10:"typography";}'
+summary:
+  - >
+    My one simple ask from Apple for WWDC
+    next week. A font.
 ---
 My feed reader and Twitter timeline are full of posts with wish lists for next week's Apple World Wide Developer conference. Siri this, iOS 10 that. And I'm sure some of the ideas are great and I'll be happy when they are at my disposal.
 

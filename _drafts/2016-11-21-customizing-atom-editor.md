@@ -1,11 +1,11 @@
 ---
-ID: 1128
-post_post_title: Customizing Atom Editor
+ID: 1194
+post_title: Customizing Atom Editor
 author: miklb
-post_post_date: 2016-11-21 05:41:50
+post_date: 2016-11-21 05:47:49
 post_excerpt: ""
 layout: post
-permalink: http://michaelbishop.me/?p=1128
+permalink: http://michaelbishop.me/?p=1194
 published: false
 tags:
   - 'a:3:{i:0;s:11:"development";i:1;s:4:"Atom";i:2;s:12:"productivity";}'

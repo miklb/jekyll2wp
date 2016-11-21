@@ -1,13 +1,19 @@
 ---
+ID: 1224
+post_title: Plans for Jekyll IndieWeb Project
+author: miklb
+post_date: 2016-11-21 05:47:49
+post_excerpt: ""
 layout: post
-post_title: "Plans for Jekyll IndieWeb Project"
-tags:
- - Jekyll
- - IndieWeb
+permalink: >
+  http://michaelbishop.me/2016/11/21/plans-for-jekyll-indieweb-project/
 published: true
-permalink: plans-for-jekyll-indieweb-project
-post_date: 2016-6-15 15:17
-summary: Catching up on my plans for the Jekyll IndieWeb theme and project I started.
+tags:
+  - 'a:2:{i:0;s:6:"Jekyll";i:1;s:8:"IndieWeb";}'
+summary:
+  - >
+    Catching up on my plans for the Jekyll
+    IndieWeb theme and project I started.
 ---
 I started a project soon after I began embracing the IndieWeb for the Jekyll platform, [Jekyll IndieWeb](https://github.com/miklb/jekyll-indieweb) (A less than inspiring project name I'm afraid to say.) My initial goals were to have a framework for myself that was fully microformats 2 compliant to build my own site off of and to share a starting point for anyone new to having their own website and wanting to embrace IndieWeb themselves.
 
